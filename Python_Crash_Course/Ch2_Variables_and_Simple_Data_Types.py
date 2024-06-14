@@ -1,5 +1,6 @@
 #Ch. 2: Variables and Simple Data Types
 
+
 #Newline
 print('Hello World')
 print('Hello\nWorld')

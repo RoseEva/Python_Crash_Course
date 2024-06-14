@@ -32,6 +32,7 @@ print(task.rstrip())
 print(task.lstrip())
 print(task.strip())
 
+#Set website
 website = 'https://county.org'
 print(website.removeprefix('https://'))
 print(website.removesuffix('.org'))
